@@ -1,0 +1,46 @@
+v 0.1
+-added the player and movement with WASD
+-added the enemy with a sightbox
+-added basic world gen framework
+
+v 0.2
+-added basic enemy AI
+-added Health/damage
+-added a game over screen
+
+v 0.3
+-added enemy turning AI
+-added enemy wander AI
+-added framework for multiple enemies
+-made it so enimies can't leave current zone (temp?)
+-added basic player attack structure
+-added some animations for the player
+-added The Console
+-added knockback to plasyer
+
+
+v0.4
+-improved framework for multiple enemies and items
+-added item framework
+-added sword and health items
+-rebuilt collision method into global handler
+-added Inventory screen (Mostly NYI)
+-began adding attack animations
+
+v0.5
+-added framework for mapping zones
+-added diffrent world objects
+
+TODO:
+
+-add invincibility frames to player and knockback to enemies
+ 
+
+-add diffrent terrain (walls, pits, diffrent palets)
+
+-add more weapons (swords and magic items)
+-add utility items
+-add chests
+
+-add (more) animations
+
